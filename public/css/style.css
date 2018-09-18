@@ -1,0 +1,30 @@
+
+body {
+	padding-top: 57px;
+	padding-bottom: 20px;
+	height:100%;
+}
+
+#logo-nav {
+	margin-top: -15px !important;
+}
+
+.divider {
+	margin-top: 8px;
+	height: 35px;
+	width: 1px;
+	border-left: 1px white solid;
+}
+
+.x-with-path {
+	cursor: pointer;
+}
+
+#calc-form {
+	text-align: center;
+}
+
+.calc-total {
+	font-weight: bold;
+	margin: 10px;
+}

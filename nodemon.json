@@ -1,0 +1,12 @@
+{
+    "verbose": true,
+    "ignore123": [
+        "public/*"
+    ],
+    "watch": [
+        "src/*",
+        "conf.js",
+        "index.js"
+    ],
+    "ext": "js"
+}
